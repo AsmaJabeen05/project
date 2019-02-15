@@ -7,6 +7,8 @@ public class ArrayToArrayList {
 
 	public static void main(String[] args) {
 		int[] a= {1,2,3,4,5};
+		int j=19;
+		int k=12;
 		//System.out.println(Arrays.toString(a));
         ArrayList al=new ArrayList<>();
         for (int i = 0; i < a.length; i++) {
